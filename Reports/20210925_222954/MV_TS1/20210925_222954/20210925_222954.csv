@@ -1,0 +1,7 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+MV_TS1,Chrome 94.0.4606.61,,,2021-09-25 22:30:08,2021-09-25 22:30:23,14.956s,PASSED
+,,,,,,,
+Test Cases/MV_TC1,Chrome 94.0.4606.61,,,2021-09-25 22:30:08,2021-09-25 22:30:23,14.333s,PASSED
+"openBrowser(""https://google.com"")",Chrome 94.0.4606.61,Open Browser,,2021-09-25 22:30:09,2021-09-25 22:30:16,7.307s,PASSED
+delay(5),Chrome 94.0.4606.61,,,2021-09-25 22:30:16,2021-09-25 22:30:21,5.084s,PASSED
+closeBrowser(),Chrome 94.0.4606.61,Close Browser,,2021-09-25 22:30:21,2021-09-25 22:30:23,1.234s,PASSED
